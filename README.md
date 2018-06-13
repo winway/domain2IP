@@ -12,4 +12,5 @@ Get the ip set of a domain as many as possible and as soon as possible.
  |-- LICENSE
  |-- README.md
  |-- result                 # result dir
- `-- tmp                    # tmp dir```
+ `-- tmp                    # tmp dir
+ ```
