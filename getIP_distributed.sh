@@ -47,7 +47,7 @@ wait
 
 for node in ${work_nodes[@]}
 do
-    cat $TMPDIR/${node}_ip.txt >> $TMPDIR/${url}_ip.txt
+    cat $TMPDIR/${node}_ip.txt >> $TMPDIR/${url}.ip.txt
 done
 
-sort -u $TMPDIR/${url}_ip.txt >${RESULTDIR}/${url}_ip.txt
+sort -u $TMPDIR/${url}_ip.txt >${RESULTDIR}/${url}.ip.txt
