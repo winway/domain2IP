@@ -1,5 +1,5 @@
 # domain2IP
-Get the ip set of a domain as many as possible and as soon as possible.
+[Get the ip set of a domain as many as possible and as soon as possible.](https://winway.github.io/2018/06/14/domain2ip/)
 ```python
 .|-- conf                   # configuration dir
      |   
